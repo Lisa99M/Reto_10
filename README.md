@@ -1,4 +1,5 @@
 # Reto_10
+4. Revisar que son los algoritmos de sorting, entender bubble-sort (enlace a implementación).
 #### Algoritmos de sorting:
 Un algoritmo de sorting (clasificación) se utiliza para reorganizar un arreglo o lista de elementos en función de un operador de comparación de los elementos. El operador de comparación se utiliza para decidir el nuevo orden de los elementos en la estructura de datos correspondiente.
 
